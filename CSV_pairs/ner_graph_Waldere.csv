@@ -1,0 +1,14 @@
+Source,Target,Weight
+Hildegunt,Walther,4
+Walther,Wielant,1
+Etzel,Walther,1
+Alphere,Walther,3
+Alphere,Hildegunt,1
+Gunther,Walther,2
+Dietrich,Witege,1
+Dietrich,Niðhad,1
+Niðhad,Wielant,1
+Niðhad,Witege,2
+Wielant,Witege,2
+Gunther,Hagen,1
+Hagen,Walther,1

@@ -1,0 +1,13 @@
+Source,Target,Weight
+Artus,Etzel,1
+Etzel,Rüdiger,9
+Rüdiger,Wunderer,6
+Etzel,Wunderer,3
+Dietrich,Rüdiger,3
+Etzel,Maria,2
+Maria,Rüdiger,1
+Hildebrand,Maria,1
+Crist,Maria,1
+Dietrich,Wunderer,23
+Dietrich,Etzel,1
+Dietrich,Hildebrand,1
